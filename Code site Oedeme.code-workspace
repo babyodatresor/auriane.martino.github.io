@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "photos "
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Code site Oedeme",
+		"liveServer.settings.port": 5501
+	}
+}
